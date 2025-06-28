@@ -12,7 +12,7 @@ This project demonstrates basic Exploratory Data Analysis (EDA) on the Iris data
 
 ## Run in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinithreddybanda/iris_eda.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xih_OQGsvPTzOJbJMAdGxlwb4qyy_sMn)
 
 ---
 
